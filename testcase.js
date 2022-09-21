@@ -11,3 +11,11 @@ function findAverage(array) {
   }
     }
     console.log(findAverage[1, 4, 8, 34, 13])
+
+array = [1, 4, 8, 34, 13]
+    function findAverage1(array) {
+        let mean = 0;
+        let sumUp = 0;
+        sumUp += array[i]
+        console.log(sumUp)
+    }
